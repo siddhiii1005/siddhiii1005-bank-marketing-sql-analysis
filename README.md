@@ -61,9 +61,7 @@ END AS tier
 | 3. Warm (contacted before) | 3,784 | 12.3% | 19.0% of calls, 42.1% of conversions |
 | 4. Cold mass market | 33,376 | 8.1% | 100% of calls, 100% of conversions |
 
-![Conversion by tier](charts/1_conversion_by_tier.png)
-![Cumulative capture](charts/2_cumulative_capture.png)
-
+ 
 ## Recommendation to the Business
 
 1. Work the list top down. Tiers 1 to 3 hold 19% of clients but 42% of conversions, converting at 25.0% against the campaign average of 11.3%. When capacity is limited, the cold mass market should be called last or moved to a cheaper channel such as email.
